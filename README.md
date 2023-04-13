@@ -2,7 +2,7 @@
 
 ## 鸣谢
 
-- [Project X](https://github.com/)
+- [Project XX](https://github.com/)
 
 ## 概述
 
