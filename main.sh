@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # The URL of the script project is:
-# https://github.com/XTLS/Xray-install
+
 
 FILES_PATH=${FILES_PATH:-./}
 
